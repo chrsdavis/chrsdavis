@@ -2,12 +2,17 @@
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/chcdavis)
 ![](https://komarev.com/ghpvc/?username=chrsdavis&color=ff69b4)
 
+
 - 🎓 Studying CS & Pure Math @ UMich
 - 💻 2x SDE Intern @ AWS
 - 📉 President @ [QIS](qisumich.com)
 - 🏠 Personal page at [chriscdavis.com](chrsdavis.github.io)
 
-<!-- ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrsdavis&show_icons=true&count_private=true&theme=dark) -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrsdavis&layout=compact&theme=highcontrast&count_private=true&langs_count=10)
+<!--
+![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrsdavis&show_icons=true&hide_rank=true&count_private=true&theme=highcontrast)
+-->
 
 
 <!--
