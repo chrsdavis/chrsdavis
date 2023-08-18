@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/chcdavis)
-![](https://komarev.com/ghpvc/?username=chrsdavis&color=ff69b4&style=plastic)
+![](https://komarev.com/ghpvc/?username=chrsdavis&color=ff69b4)
 
 - 🎓 Studying CS & Pure Math @ UMich
 - 💻 2x SDE Intern @ AWS
