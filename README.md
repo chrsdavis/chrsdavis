@@ -9,7 +9,7 @@
 - 🏠 Personal page at [chriscdavis.com](chrsdavis.github.io)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrsdavis&layout=compact&theme=highcontrast&count_private=true&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=chrsdavis&layout=compact&theme=highcontrast&count_private=true&langs_count=10&hide=jupyter)
 <!--
 ![Chris' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrsdavis&show_icons=true&hide_rank=true&count_private=true&theme=highcontrast)
 -->
