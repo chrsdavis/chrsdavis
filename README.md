@@ -4,7 +4,7 @@
 
 
 - 🎓 Studying CS & Pure Math @ UMich
-- 💻 SWE Intern @ Google, 2x SDE Intern @ AWS
+- 💻 2x SWE Intern @ Google, 2x SDE Intern @ AWS
 - 📉 President @ [QIS](https://qisumich.com)
 - 🏠 Personal page at [chriscdavis.com](https://chrsdavis.github.io)
 
